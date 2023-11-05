@@ -9,7 +9,7 @@ namespace autenticacion
     public partial class Form1 : Form
     {
         // Cadena de conexión a la base de datos
-        string connectionString = "Server=DESKTOP-0NF1K3O\\SQLEXPRESS;Database=autenticacion;User ID=sa;Password=admin12345";
+        string connectionString = "Server=DESKTOP-0NF1K3O\\SQLEXPRESS;Database=autenticacion;User ID=sa;Password=";
 
         public Form1()
         {
