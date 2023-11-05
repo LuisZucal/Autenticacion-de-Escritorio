@@ -8,7 +8,7 @@ namespace autenticacion
 {
     public partial class FormAdmin : Form
     {
-        string connectionString = "Server=DESKTOP-0NF1K3O\\SQLEXPRESS;Database=autenticacion;User ID=sa;Password=";
+        string connectionString = "Server=DESKTOP-0NF1K3O\\SQLEXPRESS;Database=autenticacion;User ID=sa;Password=";//tiene que ingresar su cadena de conexión de su servidor o base de dato.
 
         public FormAdmin()
         {
